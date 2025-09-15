@@ -279,7 +279,7 @@ class RetentionModel:
         
         return num_cams
     
-    def retention(self):
+    def run_retention(self):
         
         self.extract_paths()
         cam = self.data_placement_optimization()
