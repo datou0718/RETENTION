@@ -65,14 +65,17 @@ Create a new mapper for each strategy. `cam_size` must be a positive integer; fo
 ## Citation
 
 ```bibtex
-@ARTICLE{11511658,
-  author={Liao, Yi-Chun and Tsai, Chieh-Lin and Chang, Yuan-Hao and Slimani, Camélia and Boukhobza, Jalil and Kuo, Tei-Wei},
-  journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
-  title={RETENTION: Resource-Efficient Tree-Based Ensemble Model Acceleration with Content-Addressable Memory},
-  year={2026},
-  volume={},
-  number={},
-  pages={1-1},
-  keywords={Modeling;Trees (botanical);Vegetation;Cams;Computer aided manufacturing;Memory;Redundancy;Termination of employment;Computers;Machine learning},
-  doi={10.1109/TCAD.2026.3691288}}
+@article{Liao_2026,
+   title={RETENTION: Resource-Efficient Tree-Based Ensemble Model Acceleration With Content-Addressable Memory},
+   volume={45},
+   ISSN={1937-4151},
+   url={http://dx.doi.org/10.1109/TCAD.2026.3691288},
+   DOI={10.1109/tcad.2026.3691288},
+   number={11},
+   journal={IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems},
+   publisher={Institute of Electrical and Electronics Engineers (IEEE)},
+   author={Liao, Yi-Chun and Tsai, Chieh-Lin and Chang, Yuan-Hao and Slimani, Camélia and Boukhobza, Jalil and Kuo, Tei-Wei},
+   year={2026},
+   month=Nov, pages={6105–6118} }
+
 ```
