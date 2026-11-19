@@ -76,6 +76,5 @@ Create a new mapper for each strategy. `cam_size` must be a positive integer; fo
    publisher={Institute of Electrical and Electronics Engineers (IEEE)},
    author={Liao, Yi-Chun and Tsai, Chieh-Lin and Chang, Yuan-Hao and Slimani, Camélia and Boukhobza, Jalil and Kuo, Tei-Wei},
    year={2026},
-   month=Nov, pages={6105–6118} }
-
+   month=Nov, pages={6105–6118}}
 ```
